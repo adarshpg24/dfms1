@@ -74,7 +74,7 @@ if(isset($_POST['login']))
                         <div class="auth-form-wrap py-xl-0 py-50">
      <div class="auth-form w-xxl-55 w-xl-75 w-sm-90 w-xs-100">
                                 <form method="post">
-                                    <h1 class="display-4 mb-10">Welcome Back :)</h1>
+                                    <h1 class="display-4 mb-10">Welcome Back </h1>
                                  
 <div class="form-group">
 <input class="form-control" placeholder="Username" type="text" name="username" required="true" id="textbox1">
